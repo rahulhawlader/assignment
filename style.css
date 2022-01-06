@@ -54,7 +54,7 @@ section{
     border-radius: 10%;
 }
 .background{
-    background-image: url(/images/shapes/shape-1.png);
+    background-image: url(images/shapes/shape-1.png);
     background-position:left;
     background-repeat: no-repeat;
     background-size: 200px;
@@ -62,7 +62,7 @@ section{
     
 
 .background-two{
-    background-image: url(/images/shapes/shape-1.png);
+    background-image: url(images/shapes/shape-1.png);
     background-repeat: no-repeat;
     background-position: right;
     background-size: 150px;
